@@ -3722,7 +3722,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #abcfd6;
+					background-color: #ffffff;
 				}
 
 					#nav ul.links li.active a {
@@ -3755,14 +3755,14 @@ input, select, textarea {
 
 /* Main */
 
-#main {
-	background-color: #9eeaf9;
-	position: relative;
-	margin: 0 auto;
-	width: calc(100% - 4rem);
-	max-width: 72rem;
-	z-index: 2;
-}
+	#main {
+		background-color: #ffffff;
+		position: relative;
+		margin: 0 auto;
+		width: calc(100% - 4rem);
+		max-width: 72rem;
+		z-index: 2;
+	}
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
@@ -4257,7 +4257,7 @@ input, select, textarea {
 						-webkit-flex-grow: 0;
 						-ms-flex-grow: 0;
 						flex-grow: 0;
-						width: 13rem;
+						width: 6rem;
 					}
 
 					#footer > section.split.contact > section > :last-child {
